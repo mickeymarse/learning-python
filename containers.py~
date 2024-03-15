@@ -1,0 +1,17 @@
+# a_tuple = (1,2,3,"string")
+# a_list = [1,2,3,"string", 3, 2]
+
+# print(len(a_list))
+# a_list.append("another word")
+# print(a_list)
+
+# a_set = {1,2,3,4,4}
+# print(a_set)
+
+# print(list(set(a_list)))
+
+# a_dictionary = {"key": "value", 123: [1,2,3]}
+# print(a_dictionary)
+
+user_list = ["lisa", "bob", "alex", "anna", "john"]
+print(user_list[0])
