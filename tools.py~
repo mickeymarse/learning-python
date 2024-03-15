@@ -1,0 +1,6 @@
+# f strings
+
+user_name = "Bob"
+user_age = 10
+user_information = f"{user_name} is {user_age} years old."
+print(user_information)
