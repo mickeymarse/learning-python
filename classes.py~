@@ -1,0 +1,12 @@
+# a basic class
+
+class TestClass:
+    test_var = "hello"
+    another_var = "ciao"
+
+# create an instance
+
+test = TestClass()
+print(test.test_var, test.another_var)
+test.another_var = "bonjour"
+print(test.another_var)
