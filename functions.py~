@@ -1,0 +1,11 @@
+# create a function
+def print_x_times(param = "loop", times = 5):
+    counter = 0
+    while counter < times:
+        print(param)
+        counter += 1
+    return times
+        
+# call a function
+total = print_x_times("test", 6)
+print(total)
